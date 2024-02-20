@@ -8,5 +8,6 @@ public class Example {
         System.out.println(3);
         System.out.println();
         System.out.println(12);
+        System.out.println(33);
     }
 }
