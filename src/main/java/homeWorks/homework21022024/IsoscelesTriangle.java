@@ -21,11 +21,11 @@ public class IsoscelesTriangle {
         double secondSideOfTriangle = scanner.nextDouble();
 
 
-        System.out.println(SearchtreangleSquare(firstSideOfTriangle,secondSideOfTriangle));
+        System.out.println(SearchTreangleSquare(firstSideOfTriangle,secondSideOfTriangle));
         System.out.println();
 
     }
-    public static double SearchtreangleSquare(double side1 ,double side2){
+    public static double SearchTreangleSquare(double side1 ,double side2){
         double hide = 0.5 * Math.sqrt(4 * Math.pow(side1,side2));
         double side = 0.5 * side2 * hide;
         return side;
