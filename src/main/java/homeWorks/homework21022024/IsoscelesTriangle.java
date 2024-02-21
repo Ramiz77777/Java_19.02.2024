@@ -11,21 +11,21 @@ import java.util.Scanner;
 
 Домашка на "погуглить" (наверняка java знает как возводить в степень или извлекать корень)
  */
-public class Example4 {
+public class IsoscelesTriangle {
     public static void main(String[] args) {
         /**
          -вычисление площади треугольника;
          */
         Scanner scanner = new Scanner(System.in);
-        double value1 = scanner.nextDouble();
-        double value2 = scanner.nextDouble();
-        Example4 example5 = new Example4();
-        System.out.println(example5.treanglesquare(value1,value2));
+        double firstSideOfTriangle = scanner.nextDouble();
+        double secondSideOfTriangle = scanner.nextDouble();
+
+
+        System.out.println(SearchtreangleSquare(firstSideOfTriangle,secondSideOfTriangle));
         System.out.println();
 
     }
-    public double treanglesquare(double side1 ,double side2){
-
+    public static double SearchtreangleSquare(double side1 ,double side2){
         double hide = 0.5 * Math.sqrt(4 * Math.pow(side1,side2));
         double side = 0.5 * side2 * hide;
         return side;

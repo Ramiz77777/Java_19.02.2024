@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="..">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_21_02_2024/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_21_02_2024/Example4.java" afterDir="false" />
+    <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/TrapezoidalPerimeter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/first_lesson_19_02_2024/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first_lesson_19_02_2024/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/CubeVolume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/Example3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/TriangleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/SphereArea.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.homeWorks.homework21022024.Example2">
+  <component name="RunManager" selected="Application.CubeVolume">
+    <configuration name="CubeVolume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorks.homework21022024.CubeVolume" />
+      <module name="Java_19.02.2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWorks.homework21022024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson_21_02_2024.Example2" />
       <module name="Java_19.02.2024" />
@@ -96,21 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeWorks.homework21022024.Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework21022024.Example2" />
-      <module name="Java_19.02.2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWorks.homework21022024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homeWorks.homework21022024.Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework21022024.Example4" />
+    <configuration name="IsoscelesTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorks.homework21022024.IsoscelesTriangle" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homeWorks.homework21022024.Example2" />
-        <item itemvalue="Application.homeWorks.homework21022024.Example4" />
+        <item itemvalue="Application.CubeVolume" />
+        <item itemvalue="Application.IsoscelesTriangle" />
         <item itemvalue="Application.Example4" />
         <item itemvalue="Application.Example3" />
         <item itemvalue="Application.Example2" />
@@ -169,13 +167,28 @@
       <option name="project" value="LOCAL" />
       <updated>1708420642992</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="..">
+      <created>1708538662694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708538662694</updated>
+    </task>
+    <task id="LOCAL-00006" summary="...">
+      <created>1708538719056</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708538719056</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ok" />
     <MESSAGE value="." />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
