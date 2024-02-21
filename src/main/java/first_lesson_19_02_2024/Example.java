@@ -5,9 +5,13 @@ import java.util.Objects;
 
 public class Example {
     public static void main(String[] args) {
-        System.out.println(3);
-        System.out.println();
-        System.out.println(12);
-        System.out.println(33);
+//        System.out.println(3);
+//        System.out.println();
+//        System.out.println(12);
+//        System.out.println(33);
+
+
+
     }
 }
+
