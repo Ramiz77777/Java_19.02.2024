@@ -5,12 +5,14 @@ package lesson_26_02_2024;
  * Пример: 345 – вывод: Число 345 -> 3, 4, 5.
  */
 public class DigitNumberMethod {
-    public String number(int num1,int num2,int num3){
+    public String getNumber(int num){
 
-            String number = String.valueOf(num1);
-            String number2 = String.valueOf(num2);
-            String number3 = String.valueOf(num3);
-        return number+number2+number3;
+
+            int num1 = num/100;
+            int num2 = (num-num1*100) /10;
+            int num3 = num%10;
+            String res = "cislo " + num + " -> " + num1 +" " + num2 + " " + num3;
+    return res;
 
     }
 }
