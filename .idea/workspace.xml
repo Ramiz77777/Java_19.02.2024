@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/IsoscelesTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/CalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/calculator/CalculatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/InputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/calculator/InputData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumberMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumberMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +203,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708625372710</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="....">
+      <created>1708946482412</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708946482413</updated>
+    </task>
+    <task id="LOCAL-00012" summary="....">
+      <created>1708946498566</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708946498566</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -7,6 +7,6 @@ package lesson_26_02_2024;
 public class DigitNumber {
     public static void main(String[] args) {
         DigitNumberMethod digitNumberMethod = new DigitNumberMethod();
-        digitNumberMethod.number(1,2,3);
+        System.out.println(digitNumberMethod.number(1,2,3));
     }
 }
