@@ -20,12 +20,14 @@ public class IsoscelesTriangle {
         double firstSideOfTriangle = scanner.nextDouble();
         double secondSideOfTriangle = scanner.nextDouble();
 
+        double info = searchTreangleSquare(firstSideOfTriangle,secondSideOfTriangle);
 
-        System.out.println(SearchTreangleSquare(firstSideOfTriangle,secondSideOfTriangle));
+        System.out.println(info);
         System.out.println();
+        scanner.close();
 
     }
-    public static double SearchTreangleSquare(double side1 ,double side2){
+    public static double searchTreangleSquare(double side1 ,double side2){
         double hide = 0.5 * Math.sqrt(4 * Math.pow(side1,side2));
         double side = 0.5 * side2 * hide;
         return side;

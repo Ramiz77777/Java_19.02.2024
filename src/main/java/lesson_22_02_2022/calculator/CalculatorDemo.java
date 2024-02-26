@@ -1,4 +1,4 @@
-package lesson_22_02_2022;
+package lesson_22_02_2022.calculator;
 
 public class CalculatorDemo {
     public static void main(String[] args) {

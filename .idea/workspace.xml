@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/IsoscelesTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/CalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/calculator/CalculatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/InputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/calculator/InputData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumberMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumberMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +42,6 @@
   <component name="ProjectId" id="2cY8lyvwBw129ZmA8B0ALODmBiI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -49,13 +54,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalculatorDemo">
-    <configuration name="CalculatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_22_02_2022.CalculatorDemo" />
+  <component name="RunManager" selected="Application.DigitNumber">
+    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_22_02_2022.arraysExample.ArraySort" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_22_02_2022.*" />
+          <option name="PATTERN" value="lesson_22_02_2022.arraysExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CubeVolume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework21022024.CubeVolume" />
+    <configuration name="DigitNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_26_02_2024.DigitNumber" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.homework21022024.*" />
+          <option name="PATTERN" value="lesson_26_02_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_21_02_2024.Example4" />
+    <configuration name="IntegerArrayNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_22_02_2022.calculator.arraysExample.IntegerArrayNumbers" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.homework21022024.*" />
+          <option name="PATTERN" value="lesson_22_02_2022.calculator.arraysExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_22_02_2022.InputData" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_22_02_2022.calculator.arraysExample.PrimeNumber" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_22_02_2022.*" />
+          <option name="PATTERN" value="lesson_22_02_2022.calculator.arraysExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsoscelesTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework21022024.IsoscelesTriangle" />
+    <configuration name="lesson_22_02_2022.arraysExample.IntegerArrayNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_22_02_2022.arraysExample.IntegerArrayNumbers" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.homework21022024.*" />
+          <option name="PATTERN" value="lesson_22_02_2022.arraysExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculatorDemo" />
-        <item itemvalue="Application.InputData" />
-        <item itemvalue="Application.CubeVolume" />
-        <item itemvalue="Application.IsoscelesTriangle" />
-        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.DigitNumber" />
+        <item itemvalue="Application.lesson_22_02_2022.arraysExample.IntegerArrayNumbers" />
+        <item itemvalue="Application.ArraySort" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.IntegerArrayNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708541042508</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="...">
+      <created>1708625346110</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708625346110</updated>
+    </task>
+    <task id="LOCAL-00010" summary="....">
+      <created>1708625372710</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708625372710</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,6 +217,7 @@
     <MESSAGE value="." />
     <MESSAGE value=".." />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="...." />
+    <option name="LAST_COMMIT_MESSAGE" value="...." />
   </component>
 </project>
