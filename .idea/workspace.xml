@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumberMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumberMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DigitNumber">
+  <component name="RunManager" selected="Application.FaktorialDemo">
     <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson_22_02_2022.arraysExample.ArraySort" />
       <module name="Java_19.02.2024" />
@@ -77,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerArrayNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_22_02_2022.calculator.arraysExample.IntegerArrayNumbers" />
+    <configuration name="FaktorialDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorks.homework26_02_2024.FaktorialDemo" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_22_02_2022.calculator.arraysExample.*" />
+          <option name="PATTERN" value="homeWorks.homework26_02_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FaktorialDemo" />
         <item itemvalue="Application.DigitNumber" />
         <item itemvalue="Application.lesson_22_02_2022.arraysExample.IntegerArrayNumbers" />
         <item itemvalue="Application.ArraySort" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.IntegerArrayNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708946672426</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="....">
+      <created>1708947865244</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708947865244</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
