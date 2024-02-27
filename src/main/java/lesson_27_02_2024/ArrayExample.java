@@ -16,7 +16,7 @@ public class ArrayExample {
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         System.out.println(array[2]);
-        System.out.println(array[9]);
+        System.out.println(array[array.length-2]);
         for (int i = 0; i < array.length; i++) {
             System.out.print(array[i] + " ");
         }
