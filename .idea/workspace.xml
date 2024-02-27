@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AmountEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AverageInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/EvenMaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/LoverValueInAmount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/ModulsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/TwoSmallestNumerInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/ArrayExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +56,26 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FaktorialDemo">
-    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_22_02_2022.arraysExample.ArraySort" />
+  <component name="RunManager" selected="Application.TwoSmallestNumerInArray">
+    <configuration name="AmountEvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_27_02_2024.AmountEvenNumber" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_22_02_2022.arraysExample.*" />
+          <option name="PATTERN" value="lesson_27_02_2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AverageInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_27_02_2024.AverageInArray" />
+      <module name="Java_19.02.2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_27_02_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FaktorialDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework26_02_2024.FaktorialDemo" />
+    <configuration name="LoverValueInAmount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_27_02_2024.LoverValueInAmount" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.homework26_02_2024.*" />
+          <option name="PATTERN" value="lesson_27_02_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,25 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_22_02_2022.calculator.arraysExample.PrimeNumber" />
+    <configuration name="TwoSmallestNumerInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_27_02_2024.TwoSmallestNumerInArray" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_22_02_2022.calculator.arraysExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson_22_02_2022.arraysExample.IntegerArrayNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_22_02_2022.arraysExample.IntegerArrayNumbers" />
-      <module name="Java_19.02.2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_22_02_2022.arraysExample.*" />
+          <option name="PATTERN" value="lesson_27_02_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FaktorialDemo" />
+        <item itemvalue="Application.TwoSmallestNumerInArray" />
         <item itemvalue="Application.DigitNumber" />
-        <item itemvalue="Application.lesson_22_02_2022.arraysExample.IntegerArrayNumbers" />
-        <item itemvalue="Application.ArraySort" />
-        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.LoverValueInAmount" />
+        <item itemvalue="Application.AverageInArray" />
+        <item itemvalue="Application.AmountEvenNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -245,8 +253,33 @@
       <option name="project" value="LOCAL" />
       <updated>1708952475255</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="....">
+      <created>1709029206471</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709029206471</updated>
+    </task>
+    <task id="LOCAL-00018" summary="....">
+      <created>1709029213831</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709029213831</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ok" />

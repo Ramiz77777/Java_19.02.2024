@@ -8,9 +8,21 @@ import java.util.Scanner;
  */
 public class DigitNumber {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int num = scanner.nextInt();
-        DigitNumberMethod digitNumberMethod = new DigitNumberMethod();
-        System.out.println(digitNumberMethod.getNumber(num));
+//        Scanner scanner = new Scanner(System.in);
+//        int num = scanner.nextInt();
+//        DigitNumberMethod digitNumberMethod = new DigitNumberMethod();
+//        System.out.println(digitNumberMethod.getNumber(num));
+        int[]array = new int[5];
+        for (int i = 0; i < array.length; i++) {
+            System.out.println(array[i]);
+        }
+        System.out.println();
+
     }
 }
+
+class Employee{
+
+
+}
+
