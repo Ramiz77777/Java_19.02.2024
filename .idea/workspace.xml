@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/MinOfModulInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/ArithmeticMeanInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/ArrayShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/LessThanArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/MaxElemntInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/MaxEvenElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/SumOfPositivNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/UniqueElementsInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/ModulsSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/ModulsSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AmountEvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AmountEvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AverageInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AverageInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/TwoSmallestNumerInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/TwoSmallestNumerInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +58,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinOfModulInArray">
-    <configuration name="DigitNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_26_02_2024.DigitNumber" />
+  <component name="RunManager" selected="Application.LessThanArithmetic">
+    <configuration name="ArithmeticMeanInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_28_08_2024.ArithmeticMeanInArray" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_26_02_2024.*" />
+          <option name="PATTERN" value="lesson_28_08_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoverValueInAmount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_27_02_2024.LoverValueInAmount" />
+    <configuration name="LessThanArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_28_08_2024.LessThanArithmetic" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_27_02_2024.*" />
+          <option name="PATTERN" value="lesson_28_08_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinOfModulInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_27_02_2024.MinOfModulInArray" />
+    <configuration name="MaxElemntInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_28_08_2024.MaxElemntInArray" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_27_02_2024.*" />
+          <option name="PATTERN" value="lesson_28_08_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModulsSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_27_02_2024.ModulsSum" />
+    <configuration name="MaxEvenElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_28_08_2024.MaxEvenElementInArray" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_27_02_2024.*" />
+          <option name="PATTERN" value="lesson_28_08_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSmallestNumerInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_27_02_2024.TwoSmallestNumerInArray" />
+    <configuration name="SumOfPositivNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_28_08_2024.SumOfPositivNumberInArray" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_27_02_2024.*" />
+          <option name="PATTERN" value="lesson_28_08_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinOfModulInArray" />
-        <item itemvalue="Application.ModulsSum" />
-        <item itemvalue="Application.TwoSmallestNumerInArray" />
-        <item itemvalue="Application.DigitNumber" />
-        <item itemvalue="Application.LoverValueInAmount" />
+        <item itemvalue="Application.LessThanArithmetic" />
+        <item itemvalue="Application.ArithmeticMeanInArray" />
+        <item itemvalue="Application.SumOfPositivNumberInArray" />
+        <item itemvalue="Application.MaxEvenElementInArray" />
+        <item itemvalue="Application.MaxElemntInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709066017213</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="....">
+      <created>1709069160751</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1709069160751</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

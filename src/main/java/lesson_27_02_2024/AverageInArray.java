@@ -16,7 +16,7 @@ public class AverageInArray {
             sum +=array[i];
         }
         System.out.println(sum);
-        double result = sum / 5;
+        double result = sum / array.length;
         System.out.println(result);
     }
 }

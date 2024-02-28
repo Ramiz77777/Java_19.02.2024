@@ -8,7 +8,7 @@ import java.util.Arrays;
  */
 public class TwoSmallestNumerInArray {
     public static void main(String[] args) {
-        int[] array = {10,2,43,5,34,-2};
+        int[] array = {-10,2,43,5,34,-10};
         int min = Integer.MAX_VALUE;
         int min2 = Integer.MAX_VALUE;
         for (int i = 0; i < array.length; i++) {

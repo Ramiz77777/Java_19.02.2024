@@ -6,13 +6,18 @@ package lesson_27_02_2024;
  */
 public class AmountEvenNumber {
     public static void main(String[] args) {
-        int[] array = {2,3,-12,-43,-5,18,20};
-        int sum = array[0];
-        for (int i = 0; i < array.length; i=i+2) {
+        int[] array = {2,3,-1,23,-23,32};
+        System.out.println(extracted(array));
+    }
+
+    private static int extracted(int[] array) {
+
+        int sum = 0;
+        for (int i = 0; i < array.length; i= i + 2) {
             if(array[i] > 0){
                 sum += array[i];
             }
         }
-        System.out.println(sum);
+        return sum;
     }
 }
