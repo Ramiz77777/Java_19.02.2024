@@ -5,17 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/ArithmeticMeanInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/ArrayShift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/LessThanArithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/MaxElemntInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/MaxEvenElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/SumOfPositivNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/UniqueElementsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lessonSummury01_03_2024/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lessonSummury01_03_2024/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/FirstTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_04_03_2024/IntToBinarySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_05_03_2024/RandomExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_05_03_2024/RandomExampleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_05_03_2024/RandomExampleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_06_03_2024/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AmountEvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AmountEvenNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AverageInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AverageInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/TwoSmallestNumerInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/TwoSmallestNumerInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/first_lesson_19_02_2024/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/first_lesson_19_02_2024/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/CubeVolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework28_02_2024/CubeVolume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework28_02_2024/IsoscelesTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/SphereArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework28_02_2024/SphereArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework21022024/TrapezoidalPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework28_02_2024/TrapezoidalPerimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_21_02_2024/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_21_02_2024/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_21_02_2024/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_21_02_2024/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_21_02_2024/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_21_02_2024/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_21_02_2024/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_21_02_2024/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/arraysExample/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_22_02_2022/arraysExample/ArraySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/arraysExample/IntegerArrayNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_22_02_2022/arraysExample/IntegerArrayNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/arraysExample/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_22_02_2022/arraysExample/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_22_02_2022/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/calculator/CalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_22_02_2022/calculator/CalculatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_22_02_2022/calculator/InputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_22_02_2022/calculator/InputData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_26_02_2024/DigitNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_26_02_2024/DigitNumberMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_26_02_2024/DigitNumberMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AmountEvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_27_02_2024/AmountEvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_27_02_2024/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/AverageInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_27_02_2024/AverageInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/EvenMaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_27_02_2024/EvenMaxValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/LoverValueInAmount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_27_02_2024/LoverValueInAmount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/MaxElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_27_02_2024/MaxElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/MinOfModulInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_27_02_2024/MinOfModulInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/ModulsSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_27_02_2024/ModulsSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_27_02_2024/TwoSmallestNumerInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_27_02_2024/TwoSmallestNumerInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/ArithmeticMeanInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_28_08_2024/ArithmeticMeanInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/ArrayShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_28_08_2024/ArrayShift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/LessThanArithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_28_08_2024/LessThanArithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/MaxElemntInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_28_08_2024/MaxElemntInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/MaxEvenElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_28_08_2024/MaxEvenElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/SumOfPositivNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_28_08_2024/SumOfPositivNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson_28_08_2024/UniqueElementsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstWeek/lesson_28_08_2024/UniqueElementsInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +89,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LessThanArithmetic">
-    <configuration name="ArithmeticMeanInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_28_08_2024.ArithmeticMeanInArray" />
+  <component name="RunManager" selected="Application.FirstTask">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondWeek.lesson_06_03_2024.Example" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_28_08_2024.*" />
+          <option name="PATTERN" value="secondWeek.lesson_06_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LessThanArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_28_08_2024.LessThanArithmetic" />
+    <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorks.homework06_03_2024.FirstTask" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_28_08_2024.*" />
+          <option name="PATTERN" value="homeWorks.homework06_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxElemntInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_28_08_2024.MaxElemntInArray" />
+    <configuration name="RandomExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondWeek.lesson_05_03_2024.RandomExample" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_28_08_2024.*" />
+          <option name="PATTERN" value="secondWeek.lesson_05_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxEvenElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_28_08_2024.MaxEvenElementInArray" />
+    <configuration name="RandomExampleThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondWeek.lesson_05_03_2024.RandomExampleThree" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_28_08_2024.*" />
+          <option name="PATTERN" value="secondWeek.lesson_05_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfPositivNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_28_08_2024.SumOfPositivNumberInArray" />
+    <configuration name="RandomExampleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondWeek.lesson_05_03_2024.RandomExampleTwo" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_28_08_2024.*" />
+          <option name="PATTERN" value="secondWeek.lesson_05_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LessThanArithmetic" />
-        <item itemvalue="Application.ArithmeticMeanInArray" />
-        <item itemvalue="Application.SumOfPositivNumberInArray" />
-        <item itemvalue="Application.MaxEvenElementInArray" />
-        <item itemvalue="Application.MaxElemntInArray" />
+        <item itemvalue="Application.FirstTask" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.RandomExampleThree" />
+        <item itemvalue="Application.RandomExampleTwo" />
+        <item itemvalue="Application.RandomExample" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709069160751</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="....">
+      <created>1709156113474</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1709156113474</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,5 +356,31 @@
     <MESSAGE value="..." />
     <MESSAGE value="...." />
     <option name="LAST_COMMIT_MESSAGE" value="...." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/secondWeek/lesson_04_03_2024/IntToBinarySystem.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/secondWeek/lesson_04_03_2024/IntToBinarySystem.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/secondWeek/lesson_05_03_2024/RandomExample.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/secondWeek/lesson_05_03_2024/RandomExample.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
