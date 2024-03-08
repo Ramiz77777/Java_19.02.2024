@@ -1,4 +1,4 @@
-package homeWorks.homework06_03_2024.calculator.ThirdMethodOfCalculator;
+package homeWorks.homework_06_03_2024.calculator.ThirdMethodOfCalculator;
 
 import java.util.Scanner;
 

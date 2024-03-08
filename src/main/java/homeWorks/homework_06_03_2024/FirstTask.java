@@ -1,6 +1,5 @@
-package homeWorks.homework06_03_2024;
+package homeWorks.homework_06_03_2024;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 /**

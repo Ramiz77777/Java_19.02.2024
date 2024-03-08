@@ -1,4 +1,4 @@
-package homeWorks.homework06_03_2024.calculator.secondMethodOfCalculator;
+package homeWorks.homework_06_03_2024.calculator.secondMethodOfCalculator;
 
 public class CalculatorDemo {
     public static void main(String[] args) {

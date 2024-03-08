@@ -1,4 +1,4 @@
-package homeWorks.homework06_03_2024.calculator.firstMethodOfCalculator;
+package homeWorks.homework_06_03_2024.calculator.firstMethodOfCalculator;
 
 /**
  * Реализовать программу, выводящую на экран результаты:

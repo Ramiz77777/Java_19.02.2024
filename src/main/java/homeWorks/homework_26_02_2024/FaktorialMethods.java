@@ -1,4 +1,4 @@
-package homeWorks.homework26_02_2024;
+package homeWorks.homework_26_02_2024;
 
 public class FaktorialMethods {
     InputData inputData = new InputData();
