@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/ThirdMethodOfCalculator/CalculatorMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/firstMethodOfCalculator/CalculatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/firstMethodOfCalculator/CalculatorMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/firstMethodOfCalculator/InputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/secondMethodOfCalculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/secondMethodOfCalculator/CalculatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_07_03_2024/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_07_03_2024/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_07_03_2024/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_07_03_2024/TaskFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_07_03_2024/TaskThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_07_03_2024/TaskTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +54,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalculatorMethods">
-    <configuration name="CalculatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework06_03_2024.calculator.firstMethodOfCalculator.CalculatorDemo" />
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="SwitchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondWeek.lesson_07_03_2024.SwitchExample" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.homework06_03_2024.calculator.firstMethodOfCalculator.*" />
+          <option name="PATTERN" value="secondWeek.lesson_07_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework06_03_2024.calculator.ThirdMethodOfCalculator.CalculatorMethods" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorks.homework_07_03_2024.Task1" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.homework06_03_2024.calculator.ThirdMethodOfCalculator.*" />
+          <option name="PATTERN" value="homeWorks.homework_07_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondWeek.lesson_06_03_2024.Example" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorks.homework_07_03_2024.Task2" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondWeek.lesson_06_03_2024.*" />
+          <option name="PATTERN" value="homeWorks.homework_07_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework06_03_2024.FirstTask" />
+    <configuration name="TaskFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondWeek.lesson_07_03_2024.TaskFour" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.homework06_03_2024.calculator.firstMethodOfCalculator.*" />
+          <option name="PATTERN" value="secondWeek.lesson_07_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomExampleThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondWeek.lesson_05_03_2024.RandomExampleThree" />
+    <configuration name="TaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="secondWeek.lesson_07_03_2024.TaskTwo" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondWeek.lesson_05_03_2024.*" />
+          <option name="PATTERN" value="secondWeek.lesson_07_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculatorMethods" />
-        <item itemvalue="Application.CalculatorDemo" />
-        <item itemvalue="Application.FirstTask" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.RandomExampleThree" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.TaskFour" />
+        <item itemvalue="Application.TaskTwo" />
+        <item itemvalue="Application.SwitchExample" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709744414050</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="....">
+      <created>1709748634179</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1709748634179</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
