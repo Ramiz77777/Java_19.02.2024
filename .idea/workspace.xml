@@ -5,16 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_11_03_2024/Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_11_03_2024/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_03_11_2024/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_03_11_2024/Riddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/Romb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/TwoDimArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_07_03_2024/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_07_03_2024/TaskTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_04_03_2024/Continental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_04_03_2024/Continental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_04_03_2024/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_04_03_2024/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_04_03_2024/ExtraCalories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_04_03_2024/ExtraCalories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/FirstTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_06_03_2024/FirstTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/ThirdMethodOfCalculator/CalculatorMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_06_03_2024/calculator/ThirdMethodOfCalculator/CalculatorMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/firstMethodOfCalculator/CalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_06_03_2024/calculator/firstMethodOfCalculator/CalculatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/firstMethodOfCalculator/CalculatorMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_06_03_2024/calculator/firstMethodOfCalculator/CalculatorMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/firstMethodOfCalculator/InputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_06_03_2024/calculator/firstMethodOfCalculator/InputData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/secondMethodOfCalculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_06_03_2024/calculator/secondMethodOfCalculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/secondMethodOfCalculator/CalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_06_03_2024/calculator/secondMethodOfCalculator/CalculatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_07_03_2024/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_07_03_2024/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_07_03_2024/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_07_03_2024/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_11_03_2024/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_11_03_2024/Range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_11_03_2024/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_11_03_2024/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_26_02_2024/FaktorialDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/firstWeek/homework_26_02_2024/FaktorialDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_26_02_2024/FaktorialMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/firstWeek/homework_26_02_2024/FaktorialMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_26_02_2024/InputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/firstWeek/homework_26_02_2024/InputData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_28_02_2024/CubeVolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/firstWeek/homework_28_02_2024/CubeVolume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_28_02_2024/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/firstWeek/homework_28_02_2024/IsoscelesTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_28_02_2024/SphereArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/firstWeek/homework_28_02_2024/SphereArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework_28_02_2024/TrapezoidalPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/firstWeek/homework_28_02_2024/TrapezoidalPerimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/TwoDimArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/TwoDimArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +71,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Rectangle">
+  <component name="RunManager" selected="Application.homeWorks.secondWeek.homework_11_03_2024.Range">
     <configuration name="Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWorks.homework_11_03_2024.Range" />
       <module name="Java_19.02.2024" />
@@ -77,19 +91,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homeWorks.homework_11_03_2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thirdWeek.lesson_12_03_2024.Task" />
-      <module name="Java_19.02.2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thirdWeek.lesson_12_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homeWorks.secondWeek.homework_11_03_2024.Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorks.secondWeek.homework_11_03_2024.Range" />
+      <module name="Java_19.02.2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWorks.secondWeek.homework_11_03_2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeWorks.secondWeek.homework_11_03_2024.Range" />
         <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.thirdWeek.lesson_12_03_2024.Triangle" />
         <item itemvalue="Application.Range" />
         <item itemvalue="Application.TwoDimArray" />
-        <item itemvalue="Application.Task" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709909641885</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="....">
+      <created>1710267852850</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1710267852850</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
