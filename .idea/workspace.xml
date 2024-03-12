@@ -5,24 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_04_03_2024/Continental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_04_03_2024/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_04_03_2024/ExtraCalories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_11_03_2024/Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_11_03_2024/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_03_11_2024/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_03_11_2024/Riddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/Romb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_12_03_2024/TwoDimArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/FirstTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/FirstTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/ThirdMethodOfCalculator/CalculatorMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/ThirdMethodOfCalculator/CalculatorMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/firstMethodOfCalculator/CalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/firstMethodOfCalculator/CalculatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/firstMethodOfCalculator/CalculatorMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/firstMethodOfCalculator/CalculatorMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/firstMethodOfCalculator/InputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/firstMethodOfCalculator/InputData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/secondMethodOfCalculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/secondMethodOfCalculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework06_03_2024/calculator/secondMethodOfCalculator/CalculatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_06_03_2024/calculator/secondMethodOfCalculator/CalculatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework26_02_2024/FaktorialDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_26_02_2024/FaktorialDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework26_02_2024/FaktorialMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_26_02_2024/FaktorialMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework26_02_2024/InputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_26_02_2024/InputData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework28_02_2024/CubeVolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_28_02_2024/CubeVolume.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework28_02_2024/IsoscelesTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_28_02_2024/IsoscelesTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework28_02_2024/SphereArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_28_02_2024/SphereArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/homework28_02_2024/TrapezoidalPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/homework_28_02_2024/TrapezoidalPerimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_07_03_2024/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondWeek/lesson_07_03_2024/TaskTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +57,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Converter">
-    <configuration name="Converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework_04_03_2024.Converter" />
+  <component name="RunManager" selected="Application.Rectangle">
+    <configuration name="Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorks.homework_11_03_2024.Range" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.homework_04_03_2024.*" />
+          <option name="PATTERN" value="homeWorks.homework_11_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtraCalories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework_04_03_2024.ExtraCalories" />
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorks.homework_11_03_2024.Rectangle" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.homework_04_03_2024.*" />
+          <option name="PATTERN" value="homeWorks.homework_11_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework_07_03_2024.Task1" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdWeek.lesson_12_03_2024.Task" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.homework_07_03_2024.*" />
+          <option name="PATTERN" value="thirdWeek.lesson_12_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.homework_07_03_2024.Task2" />
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdWeek.lesson_12_03_2024.Triangle" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.homework_07_03_2024.*" />
+          <option name="PATTERN" value="thirdWeek.lesson_12_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secondWeek.lesson_07_03_2024.TaskFour" />
+    <configuration name="TwoDimArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdWeek.lesson_12_03_2024.TwoDimArray" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="secondWeek.lesson_07_03_2024.*" />
+          <option name="PATTERN" value="thirdWeek.lesson_12_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Converter" />
-        <item itemvalue="Application.ExtraCalories" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.TaskFour" />
+        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.thirdWeek.lesson_12_03_2024.Triangle" />
+        <item itemvalue="Application.Range" />
+        <item itemvalue="Application.TwoDimArray" />
+        <item itemvalue="Application.Task" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709900603676</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="....">
+      <created>1709909641885</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1709909641885</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

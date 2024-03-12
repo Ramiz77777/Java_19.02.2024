@@ -21,6 +21,7 @@ public class TaskTwo {
             else {
                 System.out.println(10 - randomValue);
             }
+
     }
 //    Scanner scanner = new Scanner(System.in);
 //
