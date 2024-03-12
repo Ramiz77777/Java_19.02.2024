@@ -51,28 +51,5 @@ public class Range {
 
 
 
-//    public static int getQuantityOfPositiveNumbers(){
-//        int counter = 0;
-//
-//        for (int i = 0; i < 100; i++) {
-//            int result = randomValue(-100, 100);
-//            if (result > 0) {
-//                counter++;
-//            }
-//        }
-//        return counter;
-//    }
-
-//    public static int getAmountOfNegativeNumbers(){
-//        int counter = 0;
-//
-//        for (int i = 0; i < 100; i++) {
-//            int result = randomValue(-100,100);
-//            if(result<0){
-//                counter++;
-//            }
-//        }
-//        return counter;
-//    }
 
 }
