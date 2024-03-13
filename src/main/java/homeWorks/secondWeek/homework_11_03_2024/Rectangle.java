@@ -1,5 +1,8 @@
 package homeWorks.secondWeek.homework_11_03_2024;
 
+import java.util.Arrays;
+import java.util.Comparator;
+
 /**
  * Показать на экране прямоугольник размером MxN, состоящий из
  * звёздочек. Затем сделать то же самое, но чтоб фигура внутри была пустая (остаётся только рамка).
