@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_13_03_2024/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_13_03_2024/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_13_03_2024/BinarySearchRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_13_03_2024/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_13_03_2024/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_13_03_2024/LinearSearchForEndToStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_13_03_2024/QuickSort.java" afterDir="false" />
+    <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="....">
+      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_14_03_2024/StringBuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/summury/ExampleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/summury/TaskThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/summury/TaskTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_11_03_2024/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_11_03_2024/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_13_03_2024/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_13_03_2024/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_03_11_2024/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_11_03_2024/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_03_11_2024/Riddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_11_03_2024/Riddle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +60,13 @@
       <recent name="thirdWeek.lesson_13_03_2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homeWorks.secondWeek.homework_13_03_2024.BinarySearch">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thirdWeek.lesson_13_03_2024.BinarySearch" />
+  <component name="RunManager" selected="Application.TaskTwo">
+    <configuration name="ExampleOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdWeek.summury.ExampleOne" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thirdWeek.lesson_13_03_2024.*" />
+          <option name="PATTERN" value="thirdWeek.summury.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thirdWeek.lesson_13_03_2024.BubbleSort" />
+    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdWeek.lesson_14_03_2024.StringBuilderExample" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thirdWeek.lesson_13_03_2024.*" />
+          <option name="PATTERN" value="thirdWeek.lesson_14_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearchForEndToStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thirdWeek.lesson_13_03_2024.LinearSearchForEndToStart" />
+    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdWeek.lesson_14_03_2024.StudentDemo" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thirdWeek.lesson_13_03_2024.*" />
+          <option name="PATTERN" value="thirdWeek.lesson_14_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeWorks.secondWeek.homework_11_03_2024.Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.secondWeek.homework_11_03_2024.Range" />
+    <configuration name="TaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdWeek.summury.TaskTwo" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.secondWeek.homework_11_03_2024.*" />
+          <option name="PATTERN" value="thirdWeek.summury.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaskTwo" />
+        <item itemvalue="Application.ExampleOne" />
+        <item itemvalue="Application.StudentDemo" />
+        <item itemvalue="Application.StringBuilderExample" />
         <item itemvalue="Application.homeWorks.secondWeek.homework_13_03_2024.BinarySearch" />
-        <item itemvalue="Application.homeWorks.secondWeek.homework_11_03_2024.Range" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.LinearSearchForEndToStart" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710271865775</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="....">
+      <created>1710354267722</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1710354267722</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

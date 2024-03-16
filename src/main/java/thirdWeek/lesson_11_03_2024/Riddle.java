@@ -1,4 +1,4 @@
-package thirdWeek.lesson_03_11_2024;
+package thirdWeek.lesson_11_03_2024;
 
 import java.util.Scanner;
 

@@ -10,11 +10,18 @@ public class BinarySearch {
         int[] array = new int[]{2,3,6,1,4};
         Arrays.sort(array);
         System.out.println(Arrays.toString(array));
-        System.out.println(searchWithBinarySystem(array,3));
+        System.out.println(searchWithBinarySystem(array,2));
     }
     public static int searchWithBinarySystem(int[] array,int searchNumber){
+        int middleIndex = array[0] + (array.length-1 + array[0])/2;
+
+        for (int i = 0; i < array.length; i++) {
+            if(middleIndex > searchNumber){
+
+            }
+        }
         if(array[array.length-1] > array[0]){
-            int middleIndex = array[0] + (array.length-1 + array[0])/2;
+            array[0] = array[array.length-1];
             if(array[middleIndex] == searchNumber){
                 return middleIndex;
             }
