@@ -40,6 +40,7 @@ public class Range {
                 countOfNonEven++;
             }
             System.out.println();
+            System.out.println();
         }
         System.out.println("quantity of posivite numbers in procent is = " + counterOfPositiveNumber +
                            "\nquantity of negative numbers in procent is = " + counterOfNegativeNumber +

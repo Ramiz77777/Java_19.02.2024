@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="....">
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_14_03_2024/StringBuilderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/summury/ExampleOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/summury/TaskThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/summury/TaskTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_13_03_2024/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeWorks/secondWeek/homework_13_03_2024/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_03_11_2024/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_11_03_2024/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_03_11_2024/Riddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thirdWeek/lesson_11_03_2024/Riddle.java" afterDir="false" />
-    </list>
+    <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -369,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710354267722</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="....">
+      <created>1710601484836</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1710601484836</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
