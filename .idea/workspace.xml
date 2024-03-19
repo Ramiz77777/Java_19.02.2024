@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="" />
+    <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_18_03_2024/TaskOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_18_03_2024/TaskTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/Ex/Lottery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/LotteryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/LuckyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/ResultOfLottery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/ScannerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/fourthWeek/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fourtheeWeek/lesson_18_03_2024/TaskOneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fourtheeWeek/lesson_18_03_2024/TaskTwoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homeWorks/fourthWeek/BankAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +29,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -36,28 +51,37 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="homeWorks.fourthWeek" />
+      <recent name="fourtheeWeek.lesson_18_03_2024" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="thirdWeek.lesson_13_03_2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TaskTwo">
-    <configuration name="ExampleOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thirdWeek.summury.ExampleOne" />
+  <component name="RunManager" selected="JUnit.BankAccountTest.isBankAccountIsNull">
+    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWorks.fourthWeek.BankAccount" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thirdWeek.summury.*" />
+          <option name="PATTERN" value="homeWorks.fourthWeek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thirdWeek.lesson_14_03_2024.StringBuilderExample" />
+    <configuration name="Lottery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_19_03_2024.Ex.Lottery" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thirdWeek.lesson_14_03_2024.*" />
+          <option name="PATTERN" value="fourtheeWeek.lesson_19_03_2024.Ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thirdWeek.lesson_14_03_2024.StudentDemo" />
+    <configuration name="LotteryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_19_03_2024.LotteryDemo" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thirdWeek.lesson_14_03_2024.*" />
+          <option name="PATTERN" value="fourtheeWeek.lesson_19_03_2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,39 +115,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thirdWeek.summury.TaskTwo" />
+    <configuration name="BankAccountTest.getAccountNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thirdWeek.summury.*" />
+          <option name="PATTERN" value="homeWorks.fourthWeek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="homeWorks.fourthWeek" />
+      <option name="MAIN_CLASS_NAME" value="homeWorks.fourthWeek.BankAccountTest" />
+      <option name="METHOD_NAME" value="getAccountNumber" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeWorks.secondWeek.homework_13_03_2024.BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWorks.secondWeek.homework_13_03_2024.BinarySearch" />
+    <configuration name="BankAccountTest.isBankAccountIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeWorks.secondWeek.homework_13_03_2024.*" />
+          <option name="PATTERN" value="homeWorks.fourthWeek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="homeWorks.fourthWeek" />
+      <option name="MAIN_CLASS_NAME" value="homeWorks.fourthWeek.BankAccountTest" />
+      <option name="METHOD_NAME" value="isBankAccountIsNull" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TaskTwo" />
-        <item itemvalue="Application.ExampleOne" />
-        <item itemvalue="Application.StudentDemo" />
-        <item itemvalue="Application.StringBuilderExample" />
-        <item itemvalue="Application.homeWorks.secondWeek.homework_13_03_2024.BinarySearch" />
+        <item itemvalue="JUnit.BankAccountTest.isBankAccountIsNull" />
+        <item itemvalue="JUnit.BankAccountTest.getAccountNumber" />
+        <item itemvalue="Application.BankAccount" />
+        <item itemvalue="Application.Lottery" />
+        <item itemvalue="Application.LotteryDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710601484836</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="....">
+      <created>1710602617553</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1710602617553</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,14 +440,14 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/secondWeek/lesson_05_03_2024/RandomExample.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/LuckyNumbers.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/secondWeek/lesson_05_03_2024/RandomExample.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/ScannerClass.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
