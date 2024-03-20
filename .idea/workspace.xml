@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_18_03_2024/TaskOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_18_03_2024/TaskTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/Ex/Lottery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/LotteryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/LuckyNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/ResultOfLottery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/ScannerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeWorks/fourthWeek/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fourtheeWeek/lesson_18_03_2024/TaskOneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fourtheeWeek/lesson_18_03_2024/TaskTwoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homeWorks/fourthWeek/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/lotteryProject/LotteryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/lotteryProject/constant/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/lotteryProject/lottery/Lottery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/lotteryProject/util/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/Ex/Lottery.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -75,7 +68,7 @@
       <recent name="thirdWeek.lesson_13_03_2024" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BankAccountTest.isBankAccountIsNull">
+  <component name="RunManager" selected="Application.fourtheeWeek.lesson_19_03_2024.Ex.LotteryDemo">
     <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWorks.fourthWeek.BankAccount" />
       <module name="Java_19.02.2024" />
@@ -90,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="Lottery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_19_03_2024.Ex.Lottery" />
+      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_19_03_2024.lotteryProject.lottery.Lottery" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fourtheeWeek.lesson_19_03_2024.Ex.*" />
+          <option name="PATTERN" value="fourtheeWeek.lesson_19_03_2024.lotteryProject.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="LotteryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_19_03_2024.LotteryDemo" />
+      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_19_03_2024.lotteryProject.LotteryDemo" />
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fourtheeWeek.lesson_19_03_2024.*" />
+          <option name="PATTERN" value="fourtheeWeek.lesson_19_03_2024.lotteryProject.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fourtheeWeek.lesson_19_03_2024.Ex.LotteryDemo" />
+        <item itemvalue="Application.Lottery" />
         <item itemvalue="JUnit.BankAccountTest.isBankAccountIsNull" />
         <item itemvalue="JUnit.BankAccountTest.getAccountNumber" />
         <item itemvalue="Application.BankAccount" />
-        <item itemvalue="Application.Lottery" />
-        <item itemvalue="Application.LotteryDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710602617553</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="....">
+      <created>1710871632197</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1710871632197</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -448,6 +448,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/ScannerClass.java</url>
           <line>47</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_19_03_2024/lotteryProject/lottery/Lottery.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
