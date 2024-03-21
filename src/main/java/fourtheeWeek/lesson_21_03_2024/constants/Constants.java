@@ -5,4 +5,5 @@ public class Constants {
     public static final char MULTIPLICATION = '*';
     public static final char MINUS = '-';
     public static final char PLUS = '+';
+    public static final char IS_STOP = 'Y';
 }

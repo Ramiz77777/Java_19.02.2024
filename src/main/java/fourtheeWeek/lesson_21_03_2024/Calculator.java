@@ -2,6 +2,8 @@ package fourtheeWeek.lesson_21_03_2024;
 
 import fourtheeWeek.lesson_21_03_2024.utils.Util;
 
+import java.util.Scanner;
+
 /**
  * апишите программу "Калькулятор", производящую вычисления с двумя числами c дробной частью. 
  * Тип данных вводимых аргументов должен быть Double. 
@@ -19,10 +21,17 @@ import fourtheeWeek.lesson_21_03_2024.utils.Util;
  */
 public class Calculator {
     public static void main(String[] args) {
-        double value1 = Util.getNumber();
-        double value2 = Util.getNumber();
-        char operation = Util.getOperation();
+        Scanner scanner = new Scanner(System.in);
+        while (true){
+            double value1 = Util.getNumber();
+            double value2 = Util.getNumber();
+            char operation = Util.getOperation();
+            Util.printResult(value1,value2,operation);
+            if
+        }
+
+
 //        System.out.println(Util.getResult(value1,value2,operation));
-        Util.printResult(value1,value2,operation);
+
     }
 }

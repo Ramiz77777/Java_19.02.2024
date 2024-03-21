@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/fourtheeWeek/lesson_21_03_2024/methods/MethodsForCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fourtheeWeek/lesson_21_03_2024/methods/MethodsForCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_21_03_2024/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_21_03_2024/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_21_03_2024/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_21_03_2024/constants/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,20 @@
       <recent name="thirdWeek.lesson_13_03_2024" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MethodsForCalculatorTest.getDivisionNegativeTest">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_21_03_2024.Calculator" />
+      <module name="Java_19.02.2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fourtheeWeek.lesson_21_03_2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MethodsForCalculatorTest.getDivisionByZeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_19.02.2024" />
       <extension name="coverage">
@@ -113,22 +128,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsForCalculatorTest.getPlusInvalidValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_19.02.2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fourtheeWeek.lesson_21_03_2024.methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="fourtheeWeek.lesson_21_03_2024.methods" />
-      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_21_03_2024.methods.MethodsForCalculatorTest" />
-      <option name="METHOD_NAME" value="getPlusInvalidValueTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MethodsForCalculatorTest.getPlusZeroValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_19.02.2024" />
       <extension name="coverage">
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="JUnit.MethodsForCalculatorTest.getDivisionNegativeTest" />
         <item itemvalue="JUnit.MethodsForCalculatorTest.getDivisionPositiveTest" />
         <item itemvalue="JUnit.MethodsForCalculatorTest.getDivisionByZeroTest" />
         <item itemvalue="JUnit.MethodsForCalculatorTest.getPlusZeroValueTest" />
-        <item itemvalue="JUnit.MethodsForCalculatorTest.getPlusInvalidValueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711018775716</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="....">
+      <created>1711019154515</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1711019154515</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -470,5 +476,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_19_02_2024$Calculator.ic" NAME="Calculator Coverage Results" MODIFIED="1711019315762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>fourtheeWeek.lesson_21_03_2024.*</FILTER>
+    </SUITE>
   </component>
 </project>
