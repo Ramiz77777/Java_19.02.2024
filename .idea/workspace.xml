@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c070622b-95b9-48ee-8dab-b656416952ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_21_03_2024/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_21_03_2024/constants/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_21_03_2024/methods/MethodsForCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fourtheeWeek/lesson_21_03_2024/utils/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fourtheeWeek/lesson_21_03_2024/methods/MethodsForCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fourtheeWeek/lesson_21_03_2024/methods/MethodsForCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fourtheeWeek/lesson_21_03_2024/methods/MethodsForCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +64,8 @@
       <recent name="thirdWeek.lesson_13_03_2024" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MethodsForCalculatorTest.getPlusZeroValueTest">
-    <configuration name="MethodsForCalculatorTest.getMinusInvalidResultTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MethodsForCalculatorTest.getDivisionNegativeTest">
+    <configuration name="MethodsForCalculatorTest.getDivisionByZeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_19.02.2024" />
       <extension name="coverage">
         <pattern>
@@ -80,7 +75,39 @@
       </extension>
       <option name="PACKAGE_NAME" value="fourtheeWeek.lesson_21_03_2024.methods" />
       <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_21_03_2024.methods.MethodsForCalculatorTest" />
-      <option name="METHOD_NAME" value="getMinusInvalidResultTest" />
+      <option name="METHOD_NAME" value="getDivisionByZeroTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodsForCalculatorTest.getDivisionNegativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_19.02.2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fourtheeWeek.lesson_21_03_2024.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fourtheeWeek.lesson_21_03_2024.methods" />
+      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_21_03_2024.methods.MethodsForCalculatorTest" />
+      <option name="METHOD_NAME" value="getDivisionNegativeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodsForCalculatorTest.getDivisionPositiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_19.02.2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fourtheeWeek.lesson_21_03_2024.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fourtheeWeek.lesson_21_03_2024.methods" />
+      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_21_03_2024.methods.MethodsForCalculatorTest" />
+      <option name="METHOD_NAME" value="getDivisionPositiveTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,38 +124,6 @@
       <option name="PACKAGE_NAME" value="fourtheeWeek.lesson_21_03_2024.methods" />
       <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_21_03_2024.methods.MethodsForCalculatorTest" />
       <option name="METHOD_NAME" value="getPlusInvalidValueTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodsForCalculatorTest.getPlusNegativeValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_19.02.2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fourtheeWeek.lesson_21_03_2024.methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="fourtheeWeek.lesson_21_03_2024.methods" />
-      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_21_03_2024.methods.MethodsForCalculatorTest" />
-      <option name="METHOD_NAME" value="getPlusNegativeValueTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodsForCalculatorTest.getPlusPositiveValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_19.02.2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fourtheeWeek.lesson_21_03_2024.methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="fourtheeWeek.lesson_21_03_2024.methods" />
-      <option name="MAIN_CLASS_NAME" value="fourtheeWeek.lesson_21_03_2024.methods.MethodsForCalculatorTest" />
-      <option name="METHOD_NAME" value="getPlusPositiveValueTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MethodsForCalculatorTest.getDivisionNegativeTest" />
+        <item itemvalue="JUnit.MethodsForCalculatorTest.getDivisionPositiveTest" />
+        <item itemvalue="JUnit.MethodsForCalculatorTest.getDivisionByZeroTest" />
         <item itemvalue="JUnit.MethodsForCalculatorTest.getPlusZeroValueTest" />
         <item itemvalue="JUnit.MethodsForCalculatorTest.getPlusInvalidValueTest" />
-        <item itemvalue="JUnit.MethodsForCalculatorTest.getPlusNegativeValueTest" />
-        <item itemvalue="JUnit.MethodsForCalculatorTest.getPlusPositiveValueTest" />
-        <item itemvalue="JUnit.MethodsForCalculatorTest.getMinusInvalidResultTest" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710935666028</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="....">
+      <created>1711018775716</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1711018775716</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

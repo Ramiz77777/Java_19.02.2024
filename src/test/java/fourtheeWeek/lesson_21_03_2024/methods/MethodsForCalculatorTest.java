@@ -8,8 +8,16 @@ import static org.junit.jupiter.api.Assertions.*;
 class MethodsForCalculatorTest {
 
     @Test
-    void getDivision() {
-
+    void getDivisionByZeroTest() {
+            assertNull(MethodsForCalculator.getDivision(10,0));
+    }
+    @Test
+    void getDivisionPositiveTest() {
+        assertEquals(3,MethodsForCalculator.getDivision(9,3));
+    }
+    @Test
+    void getDivisionNegativeTest() {
+        assertNotEquals(3,MethodsForCalculator.getDivision(9,2));
     }
 
     @Test
