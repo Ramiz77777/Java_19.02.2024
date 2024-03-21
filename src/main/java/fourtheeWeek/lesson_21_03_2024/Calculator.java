@@ -1,7 +1,9 @@
 package fourtheeWeek.lesson_21_03_2024;
 
+import fourtheeWeek.lesson_21_03_2024.constants.Constants;
 import fourtheeWeek.lesson_21_03_2024.utils.Util;
 
+import java.util.Objects;
 import java.util.Scanner;
 
 /**
@@ -22,12 +24,18 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         while (true){
             double value1 = Util.getNumber();
             double value2 = Util.getNumber();
             char operation = Util.getOperation();
             Util.printResult(value1,value2,operation);
-            if
+            System.out.println("\ndo you want to stop ? if yes enter ' Y ' : 'y' ");
+            Character stopValue = scanner.next().charAt(0);
+            if(Objects.equals(Character.toUpperCase(stopValue),Constants.IS_STOP)){
+                System.out.println("bye bye ");
+                break;
+            }
         }
 
 
